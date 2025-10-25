@@ -1,15 +1,12 @@
-C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
-C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.endpoints.json
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
-C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
-C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
-C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.endpoints.json
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
@@ -18,6 +15,7 @@ C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\Web
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -30,5 +28,8 @@ C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\Web
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\dhanu\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll

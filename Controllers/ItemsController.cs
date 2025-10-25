@@ -22,5 +22,48 @@ namespace WebApplication1.Controllers
         {
             return items;
         }
+
+        //get api/item/2
+        [HttpGet("{id}")]
+        public ActionResult<Item> Get(int id)
+        {
+            var item = items.FirstOrDefault(i => i.Id == id);
+            if(item == null)
+            {
+                return NotFound();
+            }
+            return item;
+        }
+
+        //post: api/items
+        [HttpPost]
+        public ActionResult<Item> Post(Item newItem)
+        {
+            newItem.Id = items.Max(i => i.Id) + 1;
+            items.Add(newItem);
+            return CreatedAtAction(nameof(Get), new { id = newItem.Id }, newItem);
+        }
+
+        //PUT: api/items/2
+        [HttpPut("{id}")]
+        public IActionResult Put(int id,Item updatedItem)
+        {
+            var item = items.FirstOrDefault(i => i.Id == id);
+            if (item == null)
+                return NotFound();
+
+            item.Name = updatedItem.Name;
+            return NoContent();
+        }
+        //DELETE:api/items/2
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            var item = items.FirstOrDefault(i => i.Id == id);
+            if (item == null)
+                return NotFound();
+            items.Remove(item);
+            return NoContent();
+        }
     }
 }
